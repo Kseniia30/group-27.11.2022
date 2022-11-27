@@ -1,6 +1,6 @@
 import { useLocalStorage } from 'hooks';
 import { nanoid } from 'nanoid';
-import React, { Component } from 'react';
+import React from 'react';
 
 import { FiSearch } from 'react-icons/fi';
 import { useDispatch } from 'react-redux';
